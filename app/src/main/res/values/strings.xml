@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="Lets_go">Lets Go!</string>
+    <string name="stay_connected_with_your_friend_and_family">Stay connected with your friend and family</string>
+    <string name="add_story">Add story</string>
+    <string name="type_message">Type Message</string>
+</resources>
